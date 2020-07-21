@@ -38,7 +38,8 @@ disqus:
   shortname: loyannec-com # to enable comments replace with your_disqus_shortname
   categories: [blog, project] # only show disqus for posts that have these categories
 
-# google_tag_manager: GTM-XXXXXXX # Uncomment to enable GTM. Replace GTM-XXXXXXX with your GTM container ID
+  google_analytics: UA-167856226-1
+  google_tag_manager: UA-167856226-1 # Uncomment to enable GTM. Replace GTM-XXXXXXX with your GTM container ID
 
 service_worker: true
 
