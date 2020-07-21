@@ -5,7 +5,7 @@ description: > # Meta description of Homepage
   I am a medical programmer, Data Science enthusiast who loves to share and exchange experiences,
   whether about career, medicine, technology or even life, being an immigrant and plants, many plants.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://loyaneec.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://loyannec.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
 social:
